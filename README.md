@@ -3,4 +3,4 @@ Folders are for files used to generate derivatives of previously made (has a cor
 
 Each model's creation consists of source functions, a processing data step, a training model step, and a testing model step.  Most include each step on a separate script.  
 
-The 4 notebooks in the home directory produce the most up to date version of our model with the highest accuracy thus far.  The source functions and processing step are unique to the model itself, but the training and testing steps' scripts are the same as those created for the WHISTLE recreation (folder provided).   
+The 4 notebooks in the home directory produce the most up to date version of our model with the highest accuracy thus far.  The source functions and processing step are unique to the model itself, but the training and testing steps are the same as those created for the WHISTLE recreation (folder provided).   
